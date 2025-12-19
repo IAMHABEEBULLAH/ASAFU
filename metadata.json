@@ -1,6 +1,6 @@
 {
-  "name": "Copy of ASAFU Group of Companies",
-  "description": "A premium corporate portal for ASAFU Group, showcasing excellence in Architecture, Construction, Logistics, and Estate Management.",
+  "name": "ASAFU Group of Companies",
+  "description": "The official corporate gateway for ASAFU Group – Leaders in Architecture, Construction, Logistics, and Estate Management.",
   "requestFramePermissions": [
     "camera",
     "microphone"
